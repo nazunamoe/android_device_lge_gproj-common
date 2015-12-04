@@ -1,1 +1,1 @@
-allow bridge self:process execmem;
+#allow bridge self:process execmem;
